@@ -1,9 +1,9 @@
 # Public-Scripts
 
-Welcome to **Public-Scripts** — a curated library of automation scripts and templates for managing cloud infrastructure, system configuration, and enterprise environments.
+Welcome to **Public-Scripts** — a curated library of automation scripts and infrastructure templates for cloud and enterprise IT environments.
 
-This repository focuses on tools for:
-**PowerShell**, **Azure** (ARM/Bicep), **Terraform**, **Python**, **Intune**, and **Microsoft 365**.
+This repository focuses on tools and workflows built with:
+**PowerShell**, **Azure (Bicep, ARM, CLI)**, **Terraform**, **Python**, **Intune**, and **Microsoft 365**.
 
 ---
 
